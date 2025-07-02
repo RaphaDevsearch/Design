@@ -1,0 +1,19 @@
+Digital desing
+Selection
+Object
+	Move : transform image
+	select, move, rotate, scale
+
+Color Based selection
+----------------------
+
+	Marquetm basic shap selection
+	Lasso Cust
+
+week 1
+-------
+🗓️ MERCREDI - 2 JUILLET 2025
+🎯 Découvrir Figma et ses outils de base
+📖 Lire : Guide simple sur l’interface Figma (frames, outils texte, rectangle, image)
+▶️ Vidéo (pause) : “Figma pour les débutants – 10 min”
+🛠️ Exercice : créer une fiche de contact (photo, nom, bouton) ✅ Résultat : Tu maîtrises les bases de Figma.
