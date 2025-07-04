@@ -9,7 +9,6 @@ Color Based selection
 
 	Marquetm basic shap selection
 	Lasso Cust
-
 week 1
 -------
 🗓️ MERCREDI - 2 JUILLET 2025
@@ -17,3 +16,20 @@ week 1
 📖 Lire : Guide simple sur l’interface Figma (frames, outils texte, rectangle, image)
 ▶️ Vidéo (pause) : “Figma pour les débutants – 10 min”
 🛠️ Exercice : créer une fiche de contact (photo, nom, bouton) ✅ Résultat : Tu maîtrises les bases de Figma.
+
+## color, typographie
+## layout
+## what is the meaning of each color
+	- red :
+	- blue
+	- green
+	- black
+	- white
+	- ... about the cultor
+		like : restaurant, rapha devSearch, ...
+	Ai : generate color, by meaning, ai color palet
+	
+	about the meaning of the color :
+		why most of AI tools take the color : violet, linear gradient ??
+## audiance
+		
