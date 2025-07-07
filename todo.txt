@@ -33,3 +33,6 @@ week 1
 		why most of AI tools take the color : violet, linear gradient ??
 ## audiance
 		
+## term in desing :
+	Pop Up
+	modal : overlay
