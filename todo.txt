@@ -36,3 +36,12 @@ week 1
 ## term in desing :
 	Pop Up
 	modal : overlay
+##typography :
+	serif, sans serif
+
+## using right image
+	style of image, what are the type of image that we can do
+	choce the quality of the image
+	find image for web design
+
+## the layout in the website
